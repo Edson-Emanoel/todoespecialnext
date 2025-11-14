@@ -34,26 +34,6 @@ export default function Home() {
             <input type="checkbox" className="w-5 h-5 border-2 border-[#7B94C5] rounded-md accent-[#7B94C5]" />
             <p>Estudar Expo(React-Native)</p>
           </div>
-          {/* TaskItem */}
-          <div className="px-3 py-3 flex items-center gap-5 rounded-md bg-[#1D232F] lg:border border-white">
-            <input type="checkbox" className="w-5 h-5 border-2 border-[#7B94C5] rounded-md accent-[#7B94C5]" />
-            <p>Estudar Python</p>
-          </div>
-          {/* TaskItem */}
-          <div className="px-3 py-3 flex items-center gap-5 rounded-md bg-[#1D232F] lg:border border-white">
-            <input type="checkbox" className="w-5 h-5 border-2 border-[#7B94C5] rounded-md accent-[#7B94C5]" />
-            <p>Estudar Expo(React-Native)</p>
-          </div>
-          {/* TaskItem */}
-          <div className="px-3 py-3 flex items-center gap-5 rounded-md bg-[#1D232F] lg:border border-white">
-            <input type="checkbox" className="w-5 h-5 border-2 border-[#7B94C5] rounded-md accent-[#7B94C5]" />
-            <p>Estudar Python</p>
-          </div>
-          {/* TaskItem */}
-          <div className="px-3 py-3 flex items-center gap-5 rounded-md bg-[#1D232F] lg:border border-white">
-            <input type="checkbox" className="w-5 h-5 border-2 border-[#7B94C5] rounded-md accent-[#7B94C5]" />
-            <p>Estudar Expo(React-Native)</p>
-          </div>
         </div>
       </div>
     </div>
